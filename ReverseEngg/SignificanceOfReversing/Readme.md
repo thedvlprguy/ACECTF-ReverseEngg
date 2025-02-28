@@ -5,7 +5,7 @@
 ## Things You Need to Reverse using Reverse , You should know atleast one lang of these languages: 
 - C++(For Decryption of Complex Files and converting them to executable ELF file)
 - Python(For Reversing the complex string You Get , To Find & Capture the flag)
-- Assembly(For Using it with crptography)
+- Assembly(For Using it For dissect and analyze binary code)
 
 ---
 
